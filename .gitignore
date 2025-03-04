@@ -1,0 +1,82 @@
+# -------------------------------
+# Flutter/Dart Specific
+# -------------------------------
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+*.dart.js
+*.info.json
+*.map
+*.symbols
+app.*.map.json
+
+# -------------------------------
+# Android
+# -------------------------------
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+/android/app/build/
+/android/gradle/
+/android/local.properties
+android/key.properties
+android/key-store.jks
+
+# -------------------------------
+# iOS/macOS
+# -------------------------------
+/ios/Pods/
+/ios/Flutter/.last_build_id
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Runner/GeneratedPluginRegistrant.*
+/macos/Flutter/GeneratedPluginRegistrant.*
+
+# -------------------------------
+# Web
+# -------------------------------
+/web/assets/
+
+# -------------------------------
+# IDE
+# -------------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.fvm/
+
+# -------------------------------
+# System Files
+# -------------------------------
+.DS_Store
+Thumbs.db
+*.log
+*.pyc
+*.swp
+*.swo
+*.lock
+*.class
+migrate_working_dir/
+
+# -------------------------------
+# Environment Files
+# -------------------------------
+.env
+.env.*
+.env.local
+.env.dev
+.env.prod
+
+# -------------------------------
+# Build/CI
+# -------------------------------
+.coverage/
+.coveralls.yml
+.codecov.yml
+Jenkinsfile
