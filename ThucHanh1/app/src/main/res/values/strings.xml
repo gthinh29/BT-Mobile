@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">ThucHanh1</string>
+    <!-- Các string cho layout -->
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_age">Tuổi</string>
+    <string name="button_check">Kiểm tra</string>
+    <string name="sample_result">Phạm Gia Thịnh là Người lớn</string> <!-- Cho tools:text -->
+
+    <!-- Các string khác đã có từ trước -->
+    <string name="elderly">Người già</string>
+    <string name="adult">Người lớn</string>
+    <string name="child">Trẻ em</string>
+    <string name="infant">Em bé</string>
+    <string name="unknown">Không xác định</string>
+    <string name="result_message">%1$s là %2$s</string>
+    <string name="please_input_info">Vui lòng nhập đầy đủ thông tin</string>
+    <string name="invalid_age">Tuổi phải là số nguyên hợp lệ</string>
+</resources>
