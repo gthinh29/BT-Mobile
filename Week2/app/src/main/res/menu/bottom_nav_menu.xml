@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_quanly"
+        android:icon="@drawable/ic_home"
+        android:title="Quản lý" />
+    <item
+        android:id="@+id/menu_dssach"
+        android:icon="@drawable/ic_books"
+        android:title="DS Sách" />
+    <item
+        android:id="@+id/menu_nhanvien"
+        android:icon="@drawable/ic_person"
+        android:title="Nhân viên" />
+</menu>

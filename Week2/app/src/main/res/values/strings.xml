@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QLTV</string>
+    <string name="rv_available_books_desc">Danh sách sách có sẵn</string>
+    <string name="rv_book_list_desc">Danh sách sách</string>
+</resources>
