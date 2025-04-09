@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587476635563",
+    "project_id": "flowlogin-986be",
+    "storage_bucket": "flowlogin-986be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587476635563:android:b732bf7a195b447d638cee",
+        "android_client_info": {
+          "package_name": "com.example.flowlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUQQxU0rPVuF8A--P-Cxy9T5GZW81QehQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
